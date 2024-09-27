@@ -1,4 +1,4 @@
-# Physical_therapy_scheduling_system
+
 # Physical_therapy_scheduling_system
 The Physical Therapy Scheduling System is a web-based application designed to streamline the appointment scheduling process for physical therapists and their patients. It enables therapists to manage their schedules, patients to book and manage appointments, and administrators to oversee the entire operation, ensuring efficient time management and improved patient care.
 Sample README File
